@@ -7,4 +7,4 @@ Searching for resurfaced URLS in potentially 'fake news' tweets, across a period
 4. Run searchprovocative.py
 5. Run resurfacedurls.py
 6. ???
-7. Third-class degree award
+7. degree for me
